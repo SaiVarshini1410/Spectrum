@@ -54,5 +54,5 @@ class ColorBox extends Component {
         );
     }
 }
- 
+
 export default withStyles(styles)(ColorBox);
